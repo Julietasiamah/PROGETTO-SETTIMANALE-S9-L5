@@ -34,14 +34,14 @@ const TopBar = () => {
             <Nav.Link href="#" className="fw-bold">
               My List
             </Nav.Link>
-            <div>
-              <Search />
-              <div>KIDS</div>
-              <Bell />
-              <PersonCircle />
-            </div>
           </Nav>
         </Navbar.Collapse>
+        <div className="d-flex align-items-center ">
+          <Search className="me-3" />
+          <div className="me-3 fw-bold">KIDS</div>
+          <Bell className="me-3" />
+          <PersonCircle className="me-3" />
+        </div>
       </Container>
     </Navbar>
   );
