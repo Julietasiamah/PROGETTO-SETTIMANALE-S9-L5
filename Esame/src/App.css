@@ -1,0 +1,25 @@
+#root {
+  background-color: #212529;
+  color: white;
+}
+
+#footerLink a {
+  text-decoration: none;
+  color: #838383;
+}
+
+#footercolor {
+  color: #838383;
+}
+
+#buttonfooter {
+  color: #838383;
+  border-color: #838383;
+  background-color: #212529;
+}
+
+#dropdown-basic {
+  color: white;
+  border-color: #838383;
+  background-color: #212529;
+}
