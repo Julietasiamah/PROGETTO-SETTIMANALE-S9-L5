@@ -1,6 +1,7 @@
 #root {
   background-color: #212529;
   color: white;
+  overflow: hidden;
 }
 
 #footerLink a {

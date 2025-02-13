@@ -3,7 +3,7 @@ import { Col, Container, Row, Dropdown } from "react-bootstrap";
 import { Grid } from "react-bootstrap-icons";
 import { Grid3x3 } from "react-bootstrap-icons";
 
-class HarryPotter extends Component {
+class TvShows extends Component {
   state = {
     displayMovies: [],
   };
@@ -70,4 +70,4 @@ class HarryPotter extends Component {
   }
 }
 
-export default HarryPotter;
+export default TvShows;
